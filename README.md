@@ -233,6 +233,20 @@ Full setup guide with prerequisites: [SETUP-GUIDE.md](SETUP-GUIDE.md)
 
 ---
 
+## 🏭 Products Built with Firm
+
+These real applications were built end-to-end using the Firm CEO orchestration pipeline:
+
+| Product | Stack | Repo | Status |
+|---------|-------|------|--------|
+| [**TaskFlow Pro**](https://github.com/romainsantoli-web/taskflow-pro) | Express + TypeScript + React + SQLite | `romainsantoli-web/taskflow-pro` | ✅ v1.0.0 |
+
+**TaskFlow Pro** — Professional SaaS project management (Kanban, analytics, team collaboration).
+Built using `firm init --sector saas --size startup --stack typescript` + CEO delegation protocol
+(Strategy → Engineering → Quality → Operations). 23 files, 2962 LoC, 26 tests, Docker + CI/CD.
+
+---
+
 ## 📊 Ecosystem Stats
 
 | Metric | Value |
@@ -243,6 +257,7 @@ Full setup guide with prerequisites: [SETUP-GUIDE.md](SETUP-GUIDE.md)
 | **SOUL.md personas** | 9 |
 | **SKILL.md packs** | 34 |
 | **Industry sectors** | 15 |
+| **Products built** | 1 (TaskFlow Pro) |
 | **Supported AI clients** | 5 (Claude Code, Claude Desktop, Codex, VS Code, ChatGPT) |
 | **Supported transports** | stdio, SSE, Streamable HTTP |
 | **MCP Protocol version** | 2025-11-25 |
