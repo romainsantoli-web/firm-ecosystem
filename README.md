@@ -4,7 +4,6 @@
 > working together to create, deploy, and operate autonomous AI agent "firms" on
 > [OpenClaw](https://github.com/open-claw) + [ClawHub](https://clawhub.com).
 
-⚠️ Contenu généré par IA — validation humaine requise avant utilisation.
 
 ---
 
